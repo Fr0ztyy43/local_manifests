@@ -6,6 +6,7 @@
 
 <!-- Additional -->
 <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="12.1" />
+<project path="prebuilts/clang/host/linux-x86/clang-r416183b" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b" remote="track" revision="master" />
 
 <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="12.1" />
