@@ -5,7 +5,7 @@
   <remote name="track" fetch="https://github.com" />
 
 <!-- Additional -->
-<project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="12.1" />
+
 
 <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/device_xiaomi_begonia-1" remote="track" revision="twelve" />
