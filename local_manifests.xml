@@ -8,7 +8,7 @@
 <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="12.1" />
 
 <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="12.1" />
+ <project path="device/redmi/begonia" name="Fr0ztyy43/device_redmi_begonia" remote="track" revision="twelve" />
  <project path="vendor/redmi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="12.1" />
  <project path="kernel/xiaomi/mt6785" name="MiCode/Xiaomi_Kernel_OpenSource" remote="track" revision="begonia-r-oss" />
  <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="12.1" />
