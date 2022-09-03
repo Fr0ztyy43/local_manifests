@@ -1,0 +1,1 @@
+Manifest Begonia RiceDroid
