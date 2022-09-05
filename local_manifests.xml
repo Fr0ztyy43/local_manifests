@@ -12,7 +12,7 @@
   
   <project path="vendor/dirac" name="TTTT555/vendor_dirac" remote="track" revision="master" />
   
-  <project path="vendor/redmi/begonia-firmware" name="overlang-egor/vendor_redmi_begonia-firmware" remote="track" revision="master" />
+  <project path="vendor/redmi/begonia-firmware" name="overlang-egor/vendor_redmi_begonia-firmware" remote="track" revision="fw-12.5.7" />
   
 
   
