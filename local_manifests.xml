@@ -21,7 +21,7 @@
 <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/device_redmi_begoniaWIP" remote="track" revision="twelve" />
  <project path="vendor/redmi/begonia" name="c4ez/vendor_redmi_begonia" remote="track" revision="12.1" />
- <project path="kernel/xiaomi/mt6785" name="Wahid7852/kernel_xiaomi_mt6785-bb" remote="track" revision="clean" />
+ <project path="kernel/xiaomi/mt6785" name="Wahid7852/kernel_xiaomi_mt6785-bal" remote="track" revision="clean" />
  <project path="device/mediatek/sepolicy" name="Fr0ztyy43/device_mediatek_sepolicy" remote="track" revision="12" />
  <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="12.1" />
 
