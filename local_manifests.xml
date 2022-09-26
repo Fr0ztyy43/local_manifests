@@ -6,13 +6,14 @@
 
 <!-- Additional -->
 <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="12.1" />
+ <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="track" revision="arrow-11.0" />
 
 
 <!-- Trees -->
- <project path="device/xiaomi/begonia" name="Fr0ztyy43/device_redmi_begonia-1" remote="track" revision="12" />
- <project path="vendor/xiaomi/begonia" name="wzwzx/vendor_redmi_begonia" remote="track" revision="12" />
- <project path="kernel/xiaomi/mt6785" name="AgentFabulous/begonia" remote="track" revision="android-12.0" />
- <project path="device/mediatek/sepolicy" name="wzwzx/device_mediatek_sepolicy" remote="track" revision="12" />
+ <project path="device/xiaomi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="arrow" />
+ <project path="vendor/xiaomi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="12.1" />
+ <project path="kernel/xiaomi/mt6785" name="begonia-dev/android_kernel_xiaomi_mt6785" remote="track" revision="12.1" />
+ <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="12.1" />
  <project path="vendor/xiaomi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="12.1" />
 
 </manifest>
