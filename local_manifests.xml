@@ -6,7 +6,9 @@
 
 <!-- Additional -->
 <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
- <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="track" revision="arrow-11.0" />
+ <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="track" revision="arrow-11.0" />  
+<project path="vendor/MiuiCamera" name="bishwofic/MiuiCamera" remote="track" revision="tiramisu" />
+
 
 
 <!-- Trees -->
