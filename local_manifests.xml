@@ -2,13 +2,14 @@
 <manifest>
 
 <!-- Tracking -->
-  <remote name="track" fetch="https://github.com" />
+  <remote name="track" fetch="https://github.com"/>
+  <remote name="gitlab" fetch="https://gitlab.com" />
 
 <!-- Additional -->
 
   <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
   <project path="vendor/MiuiCamera" name="bishwofic/MiuiCamera" remote="track" revision="tiramisu" />
-  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="track" revision="arrow-11.0" />
+ <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="gitlab" revision="master" />
 
 <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="13.0" />
