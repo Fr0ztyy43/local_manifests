@@ -12,10 +12,10 @@
 <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="aosp-clang" remote="anandhan07" revision="clang-14.0.6" />
 
 <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="13.0" />
+ <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="evolution" />
  <project path="vendor/redmi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="13.0" />
  <project path="kernel/xiaomi/mt6785" name="begonia-dev/android_kernel_xiaomi_mt6785" remote="track" revision="13.0" />
  <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="13.0" />
  <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="13.0" />
-
+  <project path="vendor/redmi/begonia-firmware" name="Trinity-ROMS/android_vendor_redmi_begonia-firmware" remote="track" revision="tiramisu" />
 </manifest>
