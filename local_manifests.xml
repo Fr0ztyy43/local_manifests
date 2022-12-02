@@ -5,7 +5,7 @@
   <remote name="track" fetch="https://github.com"/>
   <remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
   <remote name="RiceDroid" fetch="https://github.com/RiceDroid/" clone-depth="1" />
-   <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid/" clone-depth="1" />
+   <remote name="SwapnilVicky" fetch="https://github.com/SwapnilVicky/" clone-depth="1" />
 
 <!-- Additional -->
 
@@ -23,10 +23,13 @@
   <!--[ Remove HALs ]-->
            <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
            <remove-project name="LineageOS/android_frameworks_base" />
+           <remove-project name="LineageOS/android_system_core" />
+  
   
   <!--[ Adding Resources ]-->
         <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="RiceDroid" revision="thirteen" /> 
-        <project path="frameworks/base" name="android_frameworks_base" remote="crdroidandroid" revision="13.0" /> 
+        <project path="frameworks/base" name="android_frameworks_base" remote="SwapnilVicky" revision="lineage-20.0" /> 
+        <project path="system/core" name="android_system_core" remote="cSwapnilVicky" revision="lineage-20.0" /> 
     
   
 </manifest>
