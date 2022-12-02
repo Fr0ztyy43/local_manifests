@@ -29,7 +29,7 @@
   <!--[ Adding Resources ]-->
         <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="RiceDroid" revision="thirteen" /> 
         <project path="frameworks/base" name="android_frameworks_base" remote="SwapnilVicky" revision="lineage-20.0" /> 
-        <project path="system/core" name="android_system_core" remote="cSwapnilVicky" revision="lineage-20.0" /> 
+        <project path="system/core" name="android_system_core" remote="SwapnilVicky" revision="lineage-20.0" /> 
     
   
 </manifest>
