@@ -14,19 +14,19 @@
 <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="aosp-clang" remote="anandhan07" revision="clang-14.0.6" />
 
 <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="13.0" />
+ <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="corvus" />
  <project path="vendor/redmi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="13.0" />
  <project path="kernel/xiaomi/mt6785" name="begonia-dev/android_kernel_xiaomi_mt6785" remote="track" revision="13.0" />
  <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="13.0" />
  <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="13.0" />
   
   <!--[ Remove HALs ]-->
-           <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
-           <remove-project name="LineageOS/android_frameworks_base" />
+            <!--<remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+           <remove-project name="LineageOS/android_frameworks_base" />-->
   
   <!--[ Adding Resources ]-->
-        <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="RiceDroid" revision="thirteen" /> 
-        <project path="frameworks/base" name="android_frameworks_base" remote="crdroidandroid" revision="13.0" /> 
+      <!--  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="RiceDroid" revision="thirteen" /> 
+        <project path="frameworks/base" name="android_frameworks_base" remote="crdroidandroid" revision="13.0" /> -->
     
   
 </manifest>
