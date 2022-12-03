@@ -4,7 +4,7 @@
 <!-- Tracking -->
   <remote name="track" fetch="https://github.com"/>
   <remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
-  <remote name="RiceDroid" fetch="https://github.com/RiceDroid/" clone-depth="1" />
+<!--  <remote name="RiceDroid" fetch="https://github.com/RiceDroid/" clone-depth="1" />-->
    <remote name="Fr0ztyy43" fetch="https://github.com/Fr0ztyy43/" clone-depth="1" />
 
 <!-- Additional -->
