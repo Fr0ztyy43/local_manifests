@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<!--<!-- Tracking -->
+<!--Tracking -->
   <remote name="track" fetch="https://github.com"/>
   <remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
  <!--<remote name="RiceDroid" fetch="https://github.com/RiceDroid/" clone-depth="1" />-->
