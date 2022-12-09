@@ -5,7 +5,6 @@
   <remote name="track" fetch="https://github.com"/>
   <remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
  <remote name="Fr0ztyy43" fetch="https://github.com/Fr0ztyy43/" clone-depth="1" />
-  <!-- <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid/" clone-depth="1" />-->-->
 
 <!-- Additional -->
 
@@ -23,10 +22,6 @@
   <!--[ Remove HALs ]-->
           
        <remove-project name="Stag0S/android_frameworks_base">
-  
-  <!--[ Adding Resources ]-->
-     
-        <project path="frameworks/base" name="android_frameworks_base" remote="Fr0ztyy43" revision="t13" /> 
+  <project path="frameworks/base" name="android_frameworks_base" remote="Fr0ztyy43" revision="t13" /> 
     
-  
 </manifest>
