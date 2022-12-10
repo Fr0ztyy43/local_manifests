@@ -7,7 +7,7 @@
  <remote name="Fr0ztyy43" fetch="https://github.com/Fr0ztyy43/" clone-depth="1" />
 
 <!-- Additional -->
-<remove-project name="StagOS/android/frameworks/base"/>
+<remove-project name="android_frameworks_base"/>
 <project path="frameworks/base" name="android_frameworks_base" remote="Fr0ztyy43" revision="t13" /> 
 
  <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
