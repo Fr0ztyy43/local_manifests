@@ -7,7 +7,7 @@
  <remote name="Fr0ztyy43" fetch="https://github.com/StagOS/" clone-depth="1" />
 
 <!-- Additional -->
-<project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="StagOS" revision="t13" /> 
+<!--<project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="StagOS" revision="t13" /> -->
 
  <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
 
