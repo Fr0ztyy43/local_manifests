@@ -4,20 +4,35 @@
 <!--Tracking -->
   <remote name="track" fetch="https://github.com"/>
   <remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
- <remote name="psionicprjkt" fetch="https://github.com/psionicprjkt/" clone-depth="1" />
+ 
 
 <!-- Additional -->
-<!--<project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="StagOS" revision="t13" /> -->
 
- <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
+<!--<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="aosp-clang" remote="anandhan07" revision="clang-14.0.6" />-->
 
-<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="aosp-clang" remote="anandhan07" revision="clang-14.0.6" />
-<project path="vendor/lawnchair" name="android_vendor_lawnchair" remote="psionicprjkt" revision="android-main" />
 
 <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="corvus" />
- <project path="vendor/redmi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="13.0" />
- <project path="kernel/xiaomi/mt6785" name="begonia-dev/android_kernel_xiaomi_mt6785" remote="track" revision="13.0" />
- <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="13.0" />
- <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="13.0" />
+ <project path="device/redmi/begonia" name="TTTT555/device_xiaomi_begonia" remote="track" revision="7.21" />
+  
+ <project path="vendor/redmi/begonia" name="TTTT555/vendor_xiaomi_begonia" remote="track" revision="11.0" />
+                                                                                                        
+ <project path="kernel/xiaomi/mt6785" name="TTTT555/kernel_xiaomi_begonia" remote="track" revision="cocolite_ross" />
+                                                                                                                  
+ <project path="device/mediatek/sepolicy" name="TTTT555/android_device_mediatek_sepolicy" remote="track" revision="11.0" />
+                                                                                                                        
+ <project path="vendor/redmi/begonia-ims" name="TTTT555/android_vendor_redmi_begonia-ims" remote="track" revision="11.0" />
+                                                                                                                        
+ <project path="vendor/dlb" name="TTTT555/vendor_dlb" remote="track" revision="main" />
+                                                                                    
+ <project path="vendor/JamesDSPManager" name="TTTT555/vendor_JamesDSPManager" remote="track" revision="main" />
+                                                                                                            
+ <project path="vendor/gcam64begonia" name="TTTT555/vendor_gcam64begonia" remote="track" revision="main" />
+                                                                                                        
+ <project path="vendor/vendor_dirac" name="TTTT555/vendor_dirac" remote="track" revision="master" />
+                                                                                                 
+ <project path="vendor/burial8" name="TTTT555/vendor_burial8" remote="track" revision="master" />
+                                                                                              
+ <project path="vendor/viper4androidFX" name="TTTT555/vendor_viper4androidFX" remote="track" revision="master" />
+                                                                                                              
+ <project path="vendor/ANXCamera" name="TTTT555/vendor_ANXCamera-1" remote="track" revision="11" />
 </manifest>
