@@ -7,6 +7,7 @@
 
 
 <!-- Additional -->
+<project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek " remote="track" revision="13.0" />
 
  <project path="packages/apps/MtkFMRadio" name="begonia-dev/android_packages_apps_MtkFMRadio" remote="track" revision="13.0" />
 
