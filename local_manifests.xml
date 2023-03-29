@@ -19,6 +19,10 @@
   
   <remove-project name="LineageOS/android_packages_modules_Wifi" />
  <project path="packages/modules/Wifi" name="begonia-dev/android_packages_modules_Wifi" revision="13.0" remote="track" clone-depth="1" />
+  
+  <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+ <project path="packages/apps/Trebuchet" name="crdroidandroid/android_packages_apps_Launcher3" revision="13.0" remote="track" clone-depth="1" />
+  
 
 <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="13.0" />
