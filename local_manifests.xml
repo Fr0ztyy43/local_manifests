@@ -9,7 +9,7 @@
  
  <project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek" remote="track" revision="13.0" />
   
- <project path="ImsService" name="begonia-dev/ImsService" remote="track" revision="13.0" />
+<!-- <project path="ImsService" name="begonia-dev/ImsService" remote="track" revision="13.0" />-->
   
   <!--<project path="vendor/ANXCamera" name="MinatiLab/android_vendor_ANXCamera" remote="track" revision="twelve-L" />-->
   
