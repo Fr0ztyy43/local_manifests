@@ -9,6 +9,8 @@
  
  <project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek" remote="track" revision="13.0" />
   
+  <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="track" revision="thirteen" />
+  
 
 
  <project path="packages/apps/RevampedFMRadio" name="begonia-dev/android_packages_apps_RevampedFMRadio" remote="track" revision="13.0" />
