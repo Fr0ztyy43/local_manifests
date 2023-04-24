@@ -9,9 +9,7 @@
  
  <project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek" remote="track" revision="13.0" />
   
-  <project path="packages/apps/FaceUnlockService" name="crdroidandroid/android_packages_apps_FaceUnlockService" remote="track" revision="13.0" />
-  
-   <project path="external/faceunlock" name="PixelPlusUI/external_faceunlock" remote="track" revision="tiramisu" />
+
   
 
 
