@@ -19,7 +19,7 @@
 
  <remove-project name="LineageOS/android_external_chromium-webview_prebuilt_arm64" />
  <project path="external/chromium-webview/prebuilt/arm64" name="CatOS-Tiramisu/android_external_chromium-webview_prebuilt_arm64" revision="main" remote="track" clone-depth="1" />
- <project path="packages/apps/ViPER4AndroidFX/config.mk" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" remote="track" revision="13.0" />
+ <project path="packages/apps/ViPER4AndroidFX" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" remote="track" revision="13.0" />
   
   <remove-project name="LineageOS/android_packages_modules_Wifi" />
  <project path="packages/modules/Wifi" name="begonia-dev/android_packages_modules_Wifi" revision="13.0" remote="track" clone-depth="1" />
