@@ -13,7 +13,7 @@
 
  <project path="external/faceunlock" name="PixelPlusUI/external_faceunlock" remote="track" revision="tiramisu" />
   
- project path="packages/apps/RevampedFMRadio" name="begonia-dev/android_packages_apps_RevampedFMRadio" remote="track" revision="13.0" />
+ <project path="packages/apps/RevampedFMRadio" name="begonia-dev/android_packages_apps_RevampedFMRadio" remote="track" revision="13.0" />
 
  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="lab" revision="master" clone-depth="1"/>
 
