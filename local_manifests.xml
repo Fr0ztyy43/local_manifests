@@ -30,6 +30,9 @@
    <remove-project name="LineageOS/android_packages_apps_Settings" />
  <project path="packages/apps/Settings" name="Fr0ztyy43/android_packages_apps_Settings" revision="lineage-20.0" remote="track" clone-depth="1" />
   
+   <remove-project name="LineageOS/android_packages_apps_Dialer" />
+ <project path="packages_apps_Dialer" name="RisingTechOSS/android_packages_apps_Dialer" revision="thirteen" remote="track" clone-depth="1" />
+  
  
   
 
