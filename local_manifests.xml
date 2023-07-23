@@ -15,7 +15,7 @@
  <project path="kernel/xiaomi/mt6785" name="TTTT555/kernel_xiaomi_begonia" remote="track" revision="cocolite_ross" />
  <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="11.0" />
  <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="12.0" />
-  <project path="vendor/redmi/begonia" name="TTTT555/vendor_xiaomi_begonia-firmware" remote="track" revision="11.0" />
+  <project path="vendor/redmi/begonia-firmware" name="TTTT555/vendor_xiaomi_begonia-firmware" remote="track" revision="11.0" />
   <project path="vendor/viper4androidFX" name="TTTT555/viper4androidFX" remote="track" revision="master" />
   <project path="vendor/dirac" name="TTTT555/dirac" remote="track" revision="master" />
   <project path="vendor/ANXCamera" name="TTTT555/vendor_ANXCamera" remote="track" revision="11" />
