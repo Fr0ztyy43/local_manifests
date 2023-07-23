@@ -10,7 +10,7 @@
   
  
   <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="13.0" />
+ <project path="device/redmi/begonia" name="TTTT555/device_xiaomi_begonia" remote="track" revision="7.21" />
  <project path="vendor/redmi/begonia" name="TTTT555/vendor_xiaomi_begonia" remote="track" revision="11.0" />
  <project path="kernel/xiaomi/mt6785" name="TTTT555/kernel_xiaomi_begonia" remote="track" revision="cocolite_ross" />
  <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="11.0" />
