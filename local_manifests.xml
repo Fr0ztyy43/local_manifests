@@ -13,7 +13,6 @@
 
  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="lab" revision="master" clone-depth="1"/>
 
-   <project path="packages/apps/ViPER4AndroidFX" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" remote="track" revision="13.0" />
  
   <!-- Trees -->
  <project path="device/redmi/begonia" name="Fr0ztyy43/android_device_redmi_begonia" remote="track" revision="tiramisu" />
