@@ -6,7 +6,8 @@
    <remote name="lab" fetch="https://gitlab.com"/>
 
 <!-- Additional -->
- 
+  <project path="packages/apps/ANXCamera" name="begonia-crdroid/android_packages_apps_ANXCamera" remote="track" revision="12.1" />
+  
  <project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek" remote="track" revision="13.0" />
   
 <project path="packages/apps/RevampedFMRadio" name="begonia-dev/android_packages_apps_RevampedFMRadio" remote="track" revision="13.0" />
