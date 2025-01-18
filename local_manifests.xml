@@ -26,9 +26,10 @@
 
 <!-- Additional -->
 
-<remove-project name="hardware_qcom_audio" />
+<!-- <remove-project name="hardware_qcom_audio" /> -->
 
-<project name="android_hardware_qcom_audio" path="hardware/qcom/audio" remote="miami" revision="15.0-caf-sm8350"/>
+<!-- <project name="android_hardware_qcom_audio" path="hardware/qcom/audio" remote="miami" revision="15.0-caf-sm8350"/> -->
+
 
 </manifest>
 
