@@ -1,25 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
 
 <!-- Tracking -->
-  <remote name="track" fetch="https://github.com"/>
-   <remote name="lab" fetch="https://gitlab.com"/>
+
+<remote name="miami"
+        fetch="https://github.com/Motorola-Miami" />
+
+<remote name="fr0zty"
+        fetch="https://github.com/Fr0ztyy43" />
+
+  <!-- Trees -->   
+
+<project name="android_device_motorola_miami" path="device/motorola/miami" remote="fr0zty" revision="rebase/15.0"/>
+
+<project name="android_device_motorola_sm6375-common" path="device/motorola/sm6375-common" remote="fr0zty" revision="rebase/15.0"/>
+
+<project name="proprietary_vendor_motorola_miami" path="vendor/motorola/miami" remote="miami" revision="rebase/15.0"/>
+
+<project name="proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" remote="miami" revision="rebase/15.0"/>
+
+<project name="android_kernel_motorola_sm6375" path="kernel/motorola/sm6375" remote="miami" revision="15.0-KSU"/>
+
+<project name="android_hardware_motorola" path="hardware/motorola" remote="miami" revision="15.0"/>
 
 <!-- Additional -->
-  <project path="packages/apps/ANXCamera" name="begonia-crdroid/android_packages_apps_ANXCamera" remote="track" revision="12.1" />
-  
- <project path="hardware/mediatek" name="begonia-dev/android_hardware_mediatek" remote="track" revision="13.0" />
-  
-<project path="packages/apps/RevampedFMRadio" name="begonia-dev/android_packages_apps_RevampedFMRadio" remote="track" revision="13.0" />
 
- <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="lab" revision="master" clone-depth="1"/>
+<remove-project name="hardware_qcom_audio" />
+
+<project name="android_hardware_qcom_audio" path="hardware/qcom/audio" remote="miami" revision="15.0-caf-sm8350"/>
+
+</manifest>
+
+
+
+
+
+
 
  
-  <!-- Trees -->
- <project path="device/redmi/begonia" name="Fr0ztyy43/device_redmi_begonia" remote="track" revision="13.0" />
- <project path="vendor/redmi/begonia" name="begonia-dev/android_vendor_redmi_begonia" remote="track" revision="13.0" />
- <project path="kernel/xiaomi/mt6785" name="Nova-Kernels/kernel_xiaomi_mt6785" remote="track" revision="non-ksu" />
- <project path="device/mediatek/sepolicy" name="begonia-dev/android_device_mediatek_sepolicy" remote="track" revision="13.0" />
- <project path="vendor/redmi/begonia-ims" name="begonia-dev/android_vendor_redmi_begonia-ims" remote="track" revision="13.0" />
-  
-</manifest>
+
+
