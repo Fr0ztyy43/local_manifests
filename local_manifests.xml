@@ -22,7 +22,7 @@
 
 <project name="android_kernel_motorola_sm6375" path="kernel/motorola/sm6375" remote="miami" revision="15.0-KSU"/>
 
-<project name="android_hardware_motorola" path="hardware/motorola" remote="miami" revision="15.0"/>
+<project name="android_hardware_motorola" path="hardware/motorola" remote="fr0zty" revision="15.0"/>
 
 <!-- Additional -->
 
